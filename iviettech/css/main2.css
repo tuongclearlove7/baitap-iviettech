@@ -1,0 +1,172 @@
+html{
+
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+
+}
+
+section {
+
+    clear: both;
+    padding-top: 80px;
+   
+    
+}
+
+main{
+
+    height: 100%;
+    width: 100%;
+}
+
+.sign-up-container {
+    max-width: 1360px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    
+}
+
+main .left{
+
+    width: 45%;
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+
+
+}
+
+main .right{
+
+    width: 45%;
+    height: 100%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    
+}
+
+.left h3{
+
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+    color: #C82F35;
+    font-size: 25px;
+}
+
+
+
+.right h3{
+
+    color: #C82F35;
+    font-size: 25px;
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+}
+
+/* .left form{
+
+   padding-bottom: 100px;
+} */
+
+.left form input{
+
+    width: 500px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+
+.left form select{
+
+    width: 504px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid silver;
+    clear: both;
+    
+}
+
+.left form .big-input{
+
+    width: 500px;
+    height: 80px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid silver;
+}
+
+.left form button{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+    height: 45px;
+    width: 504px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #C82F35;
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+    border-radius: 10px;
+    border: none;
+}
+
+.left form h3{
+
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+    color: red;
+    width: 504px;
+    font-size: 17px;
+}
+
+.right img{
+
+    width: 450px;
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.right .support{
+
+    width: 450px;
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+    font-size: 14px;
+    margin-bottom: 20px;
+
+}
+
+.right h3 a{
+
+    text-decoration: none;
+    color: #C82F35;
+    font-size: 25px;
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+    font-size: 25px;
+    
+}
+
+.right h3 {
+
+    margin-bottom: 15px;
+}
+
+.logo-connect{
+
+    padding-top: 10px;
+}
+
+.logo-connect a{
+
+    color: #C82F35;
+    padding-right: 15px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+footer .footer-top{
+
+    
+    
+}

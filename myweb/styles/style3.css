@@ -1,0 +1,197 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+header{
+
+    height: 50px;
+    width: 100%;
+    border-bottom: 2px solid silver;
+}
+
+
+.header-left{
+
+    float: left;
+    margin-top: 15px;
+    width: 30%;
+    
+}
+
+.header-left h3{
+
+    color: gray;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+
+.header-right{
+
+    margin-top: 15px;
+    width: 70%;
+    float: left;
+}
+
+.header-right nav ul li {
+
+    list-style: none;
+    float: right;
+}
+
+.header-right nav ul li a{
+
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: gray;
+    padding-right: 30px;
+}
+
+aside{
+
+    clear: both;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 70px;
+}
+
+aside .banner img{
+
+    width: 100%;
+    height: 500px;
+    position: relative;
+}
+
+aside .banner h2{
+
+    color: grey;
+    position: absolute;
+    top: 500px;
+    padding-left: 20px;
+}
+
+
+main{
+
+    width: 100%;
+    height: 100%;
+}
+
+.container-main{
+
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.maintop-left{
+
+    float: left;
+    width: 45%;
+    padding-right: 5%
+}
+
+.maintop-left img{
+
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.maintop-right{
+
+    float: left;
+    width: 50%;
+    padding-bottom: 200px;
+}
+
+.maintop-right h1{
+
+    letter-spacing: 6px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.maintop-right h3{
+
+    letter-spacing: 4px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.maintop-right p{
+
+    padding-bottom: 15px;
+}
+
+.mainbottom-left{
+
+    float: left;
+    width: 45%;
+    padding-right: 5%;
+}
+
+.mainbottom-left h1{
+
+    text-align: center;
+    letter-spacing: 5px;
+    padding-bottom: 40px;
+}
+
+.content{
+
+    padding-bottom: 45px;
+}
+
+.mainbottom-left h2 {
+
+    padding-bottom: 20px;
+}
+
+.mainbottom-right{
+
+    width: 50%;
+    float: left;
+    padding-bottom: 100px;
+}
+
+.mainbottom-right img{
+
+    width: 100%;
+    height: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

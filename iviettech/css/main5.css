@@ -1,0 +1,96 @@
+section {
+    clear: both;
+    padding-top: 80px;
+}
+
+main{
+
+    max-width: 1100px;
+    margin: 0 auto;
+    border-bottom: 1px solid silver;
+}
+
+.banner{
+
+    margin-bottom: 50px;
+}
+
+.course-container3 {
+    max-width: 1100px;
+    margin: 0 auto;
+    clear: both;
+    height: 100%;
+    background-color: white;
+    border-radius: 7px;
+    padding-bottom: 70px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid silver;
+}
+
+.student{
+
+    height: 100%;
+}
+
+.student p{
+
+    color: gray;
+}
+
+
+.student2 h3{
+
+    color: black;
+}
+
+.course-container4 {
+    max-width: 1100px;
+    margin: 0 auto;
+    clear: both;
+    height: 100%;
+    background-color: #c82f35;
+    border-radius: 7px;
+    padding-bottom: 70px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+
+.course-container4 .student p{
+
+    color: white;
+}
+
+.course-container4 .student .student2 h3{
+
+    color: white;
+}
+
+
+aside{
+
+    margin-top: 20px;
+    text-align: center;
+    clear: both;
+}
+
+
+.button-next a{
+
+    text-decoration: none;
+    font-family: "Be Vietnam Pro", Roberto, sans-serif;
+    font-size: 22px;
+    color: rgb(49, 49, 49);
+    padding: 10px 17px;
+    border-radius: 5px;
+}
+
+.button-next a:hover{
+
+    background-color: #c82f35;
+    color: white;
+}
+
+

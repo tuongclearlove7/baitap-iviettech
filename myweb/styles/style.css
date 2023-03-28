@@ -1,0 +1,294 @@
+*{
+
+
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.container{
+
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{
+
+    width: 100%;
+    height: 100px;
+    background-color: gainsboro;
+    margin-bottom: 30px;
+}
+
+
+.logo{
+
+    width: 20%;
+}
+
+.logo img{
+
+    width: 80px;
+    height: 80px;
+    float: left;
+}
+
+
+.rigister{
+
+    float: right;
+}
+
+.rigister ul{
+
+    float: left;
+    list-style: none;
+}
+
+.rigister ul li{
+
+    float: left;
+    padding-top: 20px;
+    
+}
+
+
+.rigister ul li a{
+
+    padding: 20px;  
+    color: rgb(22, 87, 228);
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: sans-serif;
+
+}
+
+.rigister ul li a:hover{
+
+    
+    color: white;
+    background-color: rgb(22, 87, 228);
+}
+
+
+main{
+
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+main .content{
+    
+    padding: 80px 50px 25px 50px;
+    margin: 0 auto;
+    max-width: 655px;
+}
+
+main .content h1{
+
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+
+
+main .content .text{
+
+    width: 100%;
+}
+
+
+main .content .text p{
+
+    font-size: 20px;
+    
+}
+
+main button{
+
+    width: 150px;
+    height: 50px;
+    background-color: #0fb40f;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+main button a{
+
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+section{
+
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+section .left{
+
+    width: 45%;
+    float: left;
+    padding-right: 5%;
+    padding-left: 20px;
+    margin-bottom: 100px;
+}
+
+
+section .right{
+
+    width: 45%;
+    float: left;
+    margin-bottom: 100px;
+}
+
+section .left h3{
+
+    padding-bottom: 10px;
+    color: rgb(71, 71, 71);
+}
+
+section .left p{
+
+    padding-bottom: 10px;
+    color: rgb(71, 71, 71);
+}
+
+section .right h3{
+
+    padding-bottom: 10px;
+    color: rgb(71, 71, 71);
+}
+
+section .right p{
+
+    padding-bottom: 10px;
+    color: rgb(71, 71, 71);
+}
+
+
+
+footer{
+
+    border-top: 2px solid silver;
+    clear: both;
+    height: 200px;
+    width: 100%;
+    padding-top: 20px;
+
+}
+
+footer .footer-left{
+
+    width: 65%;
+    float: left;
+    
+}
+
+footer .footer-right{
+
+    width: 35%;
+    float: left;
+    
+}
+
+footer .footer-left p{
+
+    padding: 0px 0px 0px 20px;
+    color: rgb(71, 71, 71);
+    
+}
+
+footer .footer-right .logo-footer{
+
+    padding-right: 10px;
+    float: left;
+}
+
+footer .footer-right .fb {
+
+    width: 30px;
+    height: 30px;
+    background-color: #2a2a9d;
+    border-radius: 50%;
+    float: left;
+    margin-right: 3px;
+}
+
+footer .footer-right .yt {
+
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+    float: left;
+    margin-right: 3px;
+}
+
+footer .footer-right .tw {
+
+    width: 30px;
+    height: 30px;
+    background-color: rgb(47, 172, 204);
+    border-radius: 50%;
+    float: left;
+}
+
+
+footer .footer-right .fb a,
+footer .footer-right .yt a,
+footer .footer-right .tw a{
+
+    color: white;
+    
+}
+
+footer .footer-right .fb i
+{
+
+    color: white;
+    padding: 8px 10px 0px;
+}
+
+
+
+footer .footer-right .yt i{
+
+    color: white;
+    padding: 7px 8px 0px;
+
+}
+
+
+footer .footer-right .tw i{
+
+    color: white;
+    padding: 7px 8px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
